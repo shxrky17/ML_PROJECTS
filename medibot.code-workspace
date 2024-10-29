@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../../Downloads/templates"
+		},
+		{
+			"path": "../../../../Downloads/static"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "templates"
+	}
+}
